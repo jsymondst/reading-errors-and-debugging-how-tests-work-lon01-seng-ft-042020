@@ -2,3 +2,5 @@
 first_number = 200
 
 second_number = 50
+
+sum = first_number + second_number
